@@ -48,7 +48,7 @@ function calculate() {
 
         // ==========================================
         // Todo: Perform male IBW calculation here
-        FIBW = 50 + 2.3 (Height(in) - 60)
+        MIBW = 50 + 2.3 (Height(in) - 60)
     }
 
     // -------------------------------
